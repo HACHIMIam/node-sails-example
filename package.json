@@ -1,0 +1,27 @@
+{
+  "name": "Node_simple",
+  "private": true,
+  "version": "0.0.0",
+  "description": "a Sails application",
+  "keywords": [],
+  "dependencies": {
+    "fb": "^2.0.0",
+    "include-all": "^1.0.0",
+    "jwt-simple": "^0.5.1",
+    "moment": "^2.19.2",
+    "rc": "1.0.1",
+    "sails": "~0.12.13",
+    "sails-disk": "~0.10.9"
+  },
+  "scripts": {
+    "debug": "node debug app.js",
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahmedamine/Node_simple.git"
+  },
+  "author": "ahmedamine",
+  "license": ""
+}
