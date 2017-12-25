@@ -1,3 +1,2 @@
-# Node_simple
+# simple jwt sails authentification 
 
-a [Sails](http://sailsjs.org) application
